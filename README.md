@@ -1,0 +1,1 @@
+A dynamic sorting and searching visualizer featuring the ability to generate new arrays, adjust visualization speed, and modify array size. This website provides an interactive, customizable learning experience for exploring and comparing algorithm efficiency, behavior, and step-by-step execution for better understanding and analysis.
